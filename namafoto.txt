@@ -1,0 +1,1692 @@
+
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{assets}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\assets\about.JPG" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\assets\asdasd.JPG" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\assets\bg.png" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\assets\try.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{01awalpdkt}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\01awalpdkt\IMG-20250124-WA0001.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\01awalpdkt\IMG-20250124-WA0002.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\01awalpdkt\IMG-20250124-WA0003.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\01awalpdkt\IMG-20250124-WA0004.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\01awalpdkt\IMG-20250124-WA0005.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\01awalpdkt\IMG-20250124-WA0006.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\01awalpdkt\IMG-20250124-WA0008.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\01awalpdkt\IMG-20250124-WA0009.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\01awalpdkt\IMG-20250124-WA0010.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\01awalpdkt\IMG-20250124-WA0011.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\01awalpdkt\IMG-20250124-WA0012.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\01awalpdkt\IMG-20250124-WA0013.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\01awalpdkt\IMG-20250124-WA0014.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\01awalpdkt\IMG-20250124-WA0015.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\01awalpdkt\IMG-20250124-WA0016.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\01awalpdkt\IMG-20250124-WA0017.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{02nikahandwi}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0018.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0019.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0020.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0021.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0022.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0023.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0024.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0025.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0026.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0027.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0028.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0029.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0030.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0031.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0032.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0033.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0034.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0035.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0036.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0037.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0038.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0039.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0040.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0041.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0042.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0043.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0044.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0045.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0046.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0047.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0048.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0049.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0050.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0051.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0052.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0053.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0054.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0055.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0056.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0057.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0058.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0059.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0060.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0061.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0062.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0063.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0064.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0065.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0066.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0067.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0068.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0069.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0070.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0071.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0072.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0073.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0074.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0075.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0076.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0077.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0078.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0079.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0080.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0081.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0082.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0083.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0084.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0085.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0086.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0087.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0088.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0089.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0090.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0091.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0092.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0093.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0094.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0095.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0096.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0097.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0098.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0099.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0100.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0101.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0102.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0103.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0104.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0105.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0106.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0107.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0108.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0109.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0110.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0111.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0112.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0113.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0114.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0115.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0116.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0117.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0118.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0119.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0120.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0121.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0122.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0123.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0124.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0125.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0126.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0127.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0128.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0129.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0130.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0131.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0132.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0133.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0134.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0135.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0136.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0137.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0138.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0139.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0140.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0141.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0142.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0143.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0144.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0145.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0146.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0147.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0148.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0149.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0150.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0151.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0152.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0153.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0154.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\02nikahandwi\IMG-20250124-WA0155.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{03nightride}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\03nightride\IMG-20250124-WA0143.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\03nightride\IMG-20250124-WA0144.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\03nightride\IMG-20250124-WA0145.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\03nightride\IMG-20250124-WA0146.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\03nightride\IMG-20250124-WA0147.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\03nightride\IMG-20250124-WA0148.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\03nightride\IMG-20250124-WA0149.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\03nightride\IMG-20250124-WA0150.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\03nightride\IMG-20250124-WA0151.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\03nightride\IMG-20250124-WA0152.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\03nightride\IMG-20250124-WA0153.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\03nightride\IMG-20250124-WA0154.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\03nightride\IMG-20250124-WA0155.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{04maskeran}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0156.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0157.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0158.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0159.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0160.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0161.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0162.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0163.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0164.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0165.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0166.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0167.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0168.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0169.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0170.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0171.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0172.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\04maskeran\IMG-20250124-WA0173.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{05masakbareng}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\05masakbareng\IMG-20250124-WA0174.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\05masakbareng\IMG-20250124-WA0175.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\05masakbareng\IMG-20250124-WA0176.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\05masakbareng\IMG-20250124-WA0177.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\05masakbareng\IMG-20250124-WA0178.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\05masakbareng\IMG-20250124-WA0179.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\05masakbareng\IMG-20250124-WA0180.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\05masakbareng\IMG-20250124-WA0181.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{06amytidur}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\06amytidur\IMG-20250124-WA0183.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\06amytidur\IMG-20250124-WA0184.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\06amytidur\IMG-20250124-WA0185.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\06amytidur\IMG-20250124-WA0186.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\06amytidur\IMG-20250124-WA0187.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\06amytidur\IMG-20250124-WA0188.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\06amytidur\IMG-20250124-WA0189.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\06amytidur\IMG-20250124-WA0190.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{07hujan-hujan}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0192.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0193.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0194.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0195.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0196.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0197.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0198.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0199.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0200.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0201.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0202.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0203.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0204.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0205.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0206.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0207.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0208.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0209.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="{07hujanpathuhu\hujan\IMG-20250124-WA0210.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{08amykonser}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0211.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0212.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0213.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0214.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0215.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0216.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0217.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0218.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0219.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0220.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0221.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0222.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0223.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0224.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0225.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0226.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0227.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0228.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0229.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0230.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0231.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0232.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0233.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0234.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0235.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\08amykonser\IMG-20250124-WA0236.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{09eyecontact}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\09eyecontact\IMG-20250124-WA0237.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\09eyecontact\IMG-20250124-WA0238.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\09eyecontact\IMG-20250124-WA0239.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\09eyecontact\IMG-20250124-WA0240.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\09eyecontact\IMG-20250124-WA0241.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\09eyecontact\IMG-20250124-WA0242.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\09eyecontact\IMG-20250124-WA0243.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\09eyecontact\IMG-20250124-WA0244.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\09eyecontact\IMG-20250124-WA0245.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\09eyecontact\IMG-20250124-WA0246.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\09eyecontact\IMG-20250124-WA0247.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\09eyecontact\IMG-20250124-WA0248.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\09eyecontact\IMG-20250124-WA0249.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\09eyecontact\IMG-20250124-WA0250.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{10natalanbareng}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0251.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0252.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0253.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0254.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0255.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0256.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0257.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0258.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0259.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0260.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0261.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0262.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0263.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0264.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0265.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0266.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\10natalanbareng\IMG-20250124-WA0267.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{11jogingpagi}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\11jogingpagi\IMG-20250124-WA0268.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\11jogingpagi\IMG-20250124-WA0269.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\11jogingpagi\IMG-20250124-WA0270.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\11jogingpagi\IMG-20250124-WA0271.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\11jogingpagi\IMG-20250124-WA0272.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\11jogingpagi\IMG-20250124-WA0273.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\11jogingpagi\IMG-20250124-WA0274.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\11jogingpagi\IMG-20250124-WA0275.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\11jogingpagi\IMG-20250124-WA0276.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\11jogingpagi\IMG-20250124-WA0277.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\11jogingpagi\IMG-20250124-WA0278.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{12amysakit}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\12amysakit\IMG-20250124-WA0279.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\12amysakit\IMG-20250124-WA0280.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\12amysakit\IMG-20250124-WA0281.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\12amysakit\IMG-20250124-WA0282.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\12amysakit\IMG-20250124-WA0283.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\12amysakit\IMG-20250124-WA0284.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\12amysakit\IMG-20250124-WA0285.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\12amysakit\IMG-20250124-WA0286.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\12amysakit\IMG-20250124-WA0287.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\12amysakit\IMG-20250124-WA0288.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{13moviedate}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\13moviedate\IMG-20250124-WA0289.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\13moviedate\IMG-20250124-WA0290.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\13moviedate\IMG-20250124-WA0291.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\13moviedate\IMG-20250124-WA0292.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\13moviedate\IMG-20250124-WA0293.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\13moviedate\IMG-20250124-WA0294.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\13moviedate\IMG-20250124-WA0295.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\13moviedate\IMG-20250124-WA0296.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\13moviedate\IMG-20250124-WA0297.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\13moviedate\IMG-20250124-WA0298.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\13moviedate\IMG-20250124-WA0299.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\13moviedate\IMG-20250124-WA0300.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\13moviedate\IMG-20250124-WA0301.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\13moviedate\IMG-20250124-WA0302.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\13moviedate\IMG-20250124-WA0303.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\13moviedate\IMG-20250124-WA0304.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{14silancur}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\14silancur\IMG-20250124-WA0305.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\14silancur\IMG-20250124-WA0306.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\14silancur\IMG-20250124-WA0307.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\14silancur\IMG-20250124-WA0308.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\14silancur\IMG-20250124-WA0309.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\14silancur\IMG-20250124-WA0310.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\14silancur\IMG-20250124-WA0311.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\14silancur\IMG-20250124-WA0312.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\14silancur\IMG-20250124-WA0313.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\14silancur\IMG-20250124-WA0314.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{15bunga}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\15bunga\IMG-20250124-WA0315.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\15bunga\IMG-20250124-WA0316.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\15bunga\IMG-20250124-WA0317.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\15bunga\IMG-20250124-WA0318.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\15bunga\IMG-20250124-WA0319.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\15bunga\IMG-20250124-WA0320.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\15bunga\IMG-20250124-WA0321.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{16papheboh}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\16papheboh\IMG-20250124-WA0322.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\16papheboh\IMG-20250124-WA0323.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\16papheboh\IMG-20250124-WA0324.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\16papheboh\IMG-20250124-WA0325.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\16papheboh\IMG-20250124-WA0326.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\16papheboh\IMG-20250124-WA0327.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\16papheboh\IMG-20250124-WA0328.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\16papheboh\IMG-20250124-WA0329.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\16papheboh\IMG-20250124-WA0330.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{17maushoting}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\17maushoting\IMG-20250124-WA0331.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\17maushoting\IMG-20250124-WA0332.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\17maushoting\IMG-20250124-WA0333.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\17maushoting\IMG-20250124-WA0334.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\17maushoting\IMG-20250124-WA0335.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\17maushoting\IMG-20250124-WA0336.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\17maushoting\IMG-20250124-WA0337.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\17maushoting\IMG-20250124-WA0338.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\17maushoting\IMG-20250124-WA0339.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\17maushoting\IMG-20250124-WA0340.jpg" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\17maushoting\IMG-20250124-WA0341.jpg" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
+<section class="section__container portfolio__container" id="portfolio">
+    <h2 class="section__header">{dasboard}
+</h2>
+    <p class="section__description">
+    DESKRIPSI
+    </p>
+    <div class="portfolio__grid">
+
+    <div class="portfolio__card">
+        <img src="pathuhu\dasboard\selfi1.JPG" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\dasboard\selfi2.JPG" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\dasboard\selfi3.JPG" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\dasboard\selfi4.JPG" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\dasboard\selfi5.JPG" alt="portfolio" />
+    </div>
+
+    <div class="portfolio__card">
+        <img src="pathuhu\dasboard\selfi6.JPG" alt="portfolio" />
+    </div>
+
+    </div>
+    </div>
+</section>
+<section class="section__container portfolio__container" id="portfolio">
+                
