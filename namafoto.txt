@@ -1,6 +1,6 @@
 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{assets}
+    <h2 class="section__header">assets
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -29,7 +29,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{01awalpdkt}
+    <h2 class="section__header">01awalpdkt
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -106,7 +106,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{02nikahandwi}
+    <h2 class="section__header">02nikahandwi
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -671,7 +671,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{03nightride}
+    <h2 class="section__header">03nightride
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -736,7 +736,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{04maskeran}
+    <h2 class="section__header">04maskeran
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -821,7 +821,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{05masakbareng}
+    <h2 class="section__header">05masakbareng
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -866,7 +866,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{06amytidur}
+    <h2 class="section__header">06amytidur
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -911,7 +911,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{07hujan-hujan}
+    <h2 class="section__header">07hujan-hujan
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -1000,7 +1000,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{08amykonser}
+    <h2 class="section__header">08amykonser
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -1117,7 +1117,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{09eyecontact}
+    <h2 class="section__header">09eyecontact
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -1186,7 +1186,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{10natalanbareng}
+    <h2 class="section__header">10natalanbareng
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -1267,7 +1267,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{11jogingpagi}
+    <h2 class="section__header">11jogingpagi
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -1324,7 +1324,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{12amysakit}
+    <h2 class="section__header">12amysakit
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -1377,7 +1377,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{13moviedate}
+    <h2 class="section__header">13moviedate
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -1454,7 +1454,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{14silancur}
+    <h2 class="section__header">14silancur
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -1507,7 +1507,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{15bunga}
+    <h2 class="section__header">15bunga
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -1548,7 +1548,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{16papheboh}
+    <h2 class="section__header">16papheboh
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -1597,7 +1597,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{17maushoting}
+    <h2 class="section__header">17maushoting
 </h2>
     <p class="section__description">
     DESKRIPSI
@@ -1654,7 +1654,7 @@
 <section class="section__container portfolio__container" id="portfolio">
                 
 <section class="section__container portfolio__container" id="portfolio">
-    <h2 class="section__header">{dasboard}
+    <h2 class="section__header">dasboard
 </h2>
     <p class="section__description">
     DESKRIPSI

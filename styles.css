@@ -382,6 +382,13 @@ nav {
   }
 }
 
+@media (max-width: 576px) {
+  .portfolio__grid {
+    grid-template-columns: repeat(3, 1fr); /* Menampilkan 3 kolom */
+  }
+}
+
+
 @media (width > 768px) {
   nav {
     padding: 2rem 1rem;
@@ -471,19 +478,13 @@ nav {
   }
 
   .portfolio__grid {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(5, 20%);
   }
 
   .portfolio__banner {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(10, 10fr);
   }
 }
-
-
-
-
-
-
 
 /* Gaya untuk container download-list-widget */
 .download-list-widget {

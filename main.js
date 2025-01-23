@@ -56,11 +56,11 @@ ScrollReveal().reveal(".about__content .about__btn", {
 // service container
 ScrollReveal().reveal(".service__card", {
   ...scrollRevealOption,
-  interval: 500,
+  interval: 100, // lebih cepat
 });
 
 // portfolio container
 ScrollReveal().reveal(".portfolio__card", {
-  duration: 1000,
-  interval: 500,
+  duration: 5000, // animasi lebih cepat
+  interval: 50, // lebih cepat
 });
